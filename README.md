@@ -1,4 +1,4 @@
-# Linked List Project - ![MIT License](https://img.shields.io/badge/License-MIT-blue)
+# Linked List Project · ![MIT License](https://img.shields.io/badge/License-MIT-blue)
 This project implements all Linked Lists (Simple, Doubly, Header and Circular)
 in C with operations like creation, insertion, deletion, and searching.
 
