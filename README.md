@@ -9,11 +9,12 @@ in C with operations like creation, insertion, deletion, and searching.
 - Searching: You will be able to search for an element in the list.
 
 ## Usage
-Compile the program using:
+Compile the program using :
 ```bash
 gcc main.c -o linked_list
-
-<hr>
+```
+---
 Run as:
 ```bash
 ./linked_list
+```
