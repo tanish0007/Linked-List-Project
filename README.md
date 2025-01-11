@@ -12,3 +12,8 @@ in C with operations like creation, insertion, deletion, and searching.
 Compile the program using:
 ```bash
 gcc main.c -o linked_list
+
+<hr>
+Run as:
+```bash
+./linked_list
