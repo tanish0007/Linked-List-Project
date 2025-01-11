@@ -13,7 +13,6 @@ Compile the program using :
 ```bash
 gcc main.c -o linked_list
 ```
----
 Run as :
 ```bash
 ./linked_list
