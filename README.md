@@ -14,7 +14,7 @@ Compile the program using :
 gcc main.c -o linked_list
 ```
 ---
-Run as:
+Run as :
 ```bash
 ./linked_list
 ```
